@@ -1,24 +1,21 @@
-# README
+# Rails Kittens-API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A Rails API application built as part of [The Odin Project](https://www.theodinproject.com/) curriculum. This project demonstrates building a data-producing API where controllers render JSON data instead of HTML views.
 
-Things you may want to cover:
+## About This Project
 
-* Ruby version
+This is a learning project from [The Odin Project's Rails course](https://www.theodinproject.com/paths/full-stack-ruby-on-rails), specifically the [APIs lesson](https://www.theodinproject.com/lessons/ruby-on-rails-apis). The goal is to understand how to:
 
-* System dependencies
+- Build a Rails application configured as an API
+- Structure controllers to return JSON responses
+- Handle API requests and responses
+- Work with serialization
 
-* Configuration
+## Learning Resources
 
-* Database creation
+- [The Odin Project - APIs Lesson](https://www.theodinproject.com/lessons/ruby-on-rails-apis)
+- [Rails API Documentation](https://guides.rubyonrails.org/api_app.html)
 
-* Database initialization
+## Acknowledgments
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Built as part of [The Odin Project](https://www.theodinproject.com/) - an open-source curriculum for learning web development.
